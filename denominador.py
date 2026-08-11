@@ -9,3 +9,5 @@ if n_numero2 == 0:
 else:
     divisao = n_numero1 / n_numero2
     print(f"A divisão entre {n_numero1} e {n_numero2} é: {divisao}")
+
+    
